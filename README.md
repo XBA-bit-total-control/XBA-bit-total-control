@@ -69,7 +69,7 @@ __Результат__:
 Репозиторий проекта >>> [Upscaling_with_celery](https://github.com/XBA-bit-total-control/Upscaling_with_celery.git)
 
 
-### ~ 3 ~ ___FastAPI_classifieds_website_part_2__
+### ~ 3 ~ __FastAPI_classifieds_website_part_2__
 
 __Задача__:
 
