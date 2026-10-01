@@ -88,6 +88,10 @@ __Результат__:
 
 Репозиторий проекта >>> [FastAPI_classifieds_website_part_2](https://github.com/XBA-bit-total-control/FastAPI_classifieds_website_part_2.git)
 
+## Образование:
+
+<img src="/certificate_of_completion_course.jpg" alt="Сертификат о прохождении обучения по курсу Python-разработчик" width="400" height="300">
+
 ## Контакты:
 
 Email: vladislavhucisvili@gmail.com
