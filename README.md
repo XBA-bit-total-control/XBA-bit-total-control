@@ -10,11 +10,18 @@
 
 
 ## Стек:
-__Backend__: Python, Django / DRF, FastAPI, Flask, aiohttp, SQLAlchemy, Celery, Pytest
 
-__Инструменты__: Git / GitHub, Docker / Docker-compose, DBeaver, Postman, PyCharm, GitHub Actions,  Linux (ubuntu)
+__Языки__: Python 3.10+, SQL
+
+__Фреймворки__: FastAPI, Django, Django REST Framework, Flask
 
 __Базы данных__: PostgreSQL, Redis
+
+__Инструменты__: Docker / Docker compose, Git / GitHub, GitHub Actions, CI/CD, SQLAlchemy, Pytest, Celery, gunicorn, DBeaver, Postman, PyCharm
+
+__Технологии__: REST API, JWT-аутентификация, async/asyncio, aiohttp, ООП
+
+__Прочее__: Linux, Ubuntu
 
 ## Навыки и особенности:
 * Пишу старательно чистый и развернутый код для понятного и удобного просмотра.
@@ -106,6 +113,10 @@ __Результат__:
 Возможность запуска в контейнере. 
 
 Репозиторий проекта >>> [FastAPI_classifieds_website_part_2](https://github.com/XBA-bit-total-control/FastAPI_classifieds_website_part_2.git)
+
+## Образование:
+
+<img src="/certificate_of_completion_course.jpg" alt="Сертификат о прохождении обучения по курсу Python-разработчик" width="400" height="300">
 
 ## Контакты:
 
